@@ -52,7 +52,7 @@ How to Run the Project
 1.  **Clone the repository**:
 
     ```
-    git clone <repository-url>
+    git clone https://github.com/Gitzak/react-redux.git
     ```
 
 2.  **Install dependencies**:
